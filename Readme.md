@@ -5,7 +5,7 @@
 ### 🚀 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI/ML Engineer | 📊 Data Scientist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshuuj1997.github.io/github-portfolio/Index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuuj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuuj1997/)
 [![Email](https://img.shields.io/badge/Email-himanshujoshi378%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshujoshi378@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/himanshuuj1997?style=for-the-badge&logo=github)](https://github.com/himanshuuj1997)
 
@@ -151,17 +151,20 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuuj1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Himanshu's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuuj1997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <a href="https://github.com/himanshuuj1997">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuuj1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="Himanshu's GitHub Stats" />
+  </a>
+  <a href="https://github.com/himanshuuj1997">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuuj1997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuuj1997&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <a href="https://github.com/himanshuuj1997">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuuj1997&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
