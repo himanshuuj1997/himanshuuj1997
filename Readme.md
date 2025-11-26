@@ -240,15 +240,23 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-  <a href="https://github.com/himanshuuj1997/himanshuuj1997">
+  <!-- Data Science Repo -->
+  <a href="https://github.com/himanshuuj1997/Data-Science">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true&cache_seconds=3600" 
-      alt="Pinned Repo" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=Data-Science&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+      alt="Data Science Repository"
+    />
+  </a>
+
+  <!-- MyPastWork Repo -->
+  <a href="https://github.com/himanshuuj1997/MyPastWork">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=MyPastWork&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+      alt="My Past Work Repository"
     />
   </a>
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
