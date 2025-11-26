@@ -230,7 +230,7 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=Himanshuu-Joshii&theme=tokyonight&hide_border=true)](https://github.com/Himanshuu-Joshii/Himanshuu-Joshii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true)](https://github.com/Himanshuu-Joshii/Himanshuu-Joshii)
 
 </div>
 
@@ -243,8 +243,8 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 I'm always excited to collaborate on innovative projects, discuss DevOps best practices, or explore AI/ML opportunities. Let's connect and build something amazing together!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00ADD8?style=for-the-badge)](https://himanshuuj1997.github.io/github-portfolio/Index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshuu-joshii/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/Himanshuu-Joshii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshuuj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/himanshuuj1997)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:himanshujoshi378@gmail.com)
 
 </div>
