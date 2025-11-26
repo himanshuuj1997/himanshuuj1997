@@ -230,7 +230,7 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=Himanshuu-Joshii&theme=tokyonight&hide_border=true)](https://github.com/Himanshuu-Joshii/Himanshuu-Joshii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true)](https://github.com/himanshuuj1997/himanshuuj1997)
 
 </div>
 
