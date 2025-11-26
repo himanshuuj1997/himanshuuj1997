@@ -152,10 +152,14 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/himanshuuj1997">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshuuj1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="Himanshu's GitHub Stats" />
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=himanshuuj1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&cache_seconds=3600" 
+         alt="Himanshu's GitHub Stats" />
   </a>
   <a href="https://github.com/himanshuuj1997">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuuj1997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuuj1997&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=3600" 
+         alt="Top Languages" />
   </a>
 </div>
 
@@ -163,9 +167,12 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/himanshuuj1997">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuuj1997&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+    <img width="90%" 
+         src="https://streak-stats.demolab.com?user=himanshuuj1997&theme=tokyonight&hide_border=true&background=1a1b27&cache_seconds=3600" 
+         alt="GitHub Streak" />
   </a>
 </div>
+
 
 ---
 
