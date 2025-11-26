@@ -240,10 +240,28 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-  <!-- Data Science | AWS | Terraform Icons -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" alt="Data Science" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="80" alt="AWS Cloud" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="80" alt="Terraform" />
+  <!-- Featured Project Icons -->
+  <!-- Data Science Repo: Python Logo -->
+  <img src="https://raw.githubusercontent.com/himanshuuj1997/Data-Science/main/assets/python-logo.png" width="70" alt="Python Logo" />
+
+  <!-- Data Science Repo -->
+  <a href="https://github.com/himanshuuj1997/Data-Science">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=Data-Science&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+      alt="Data Science Repository"
+    />
+  </a>
+
+  <!-- My Past Work Repo: Terraform Logo -->
+  <img src="https://raw.githubusercontent.com/himanshuuj1997/MyPastWork/main/assets/terraform-logo.png" width="80" alt="Terraform Logo" />
+
+  <!-- MyPastWork Repo -->
+  <a href="https://github.com/himanshuuj1997/MyPastWork">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=MyPastWork&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+      alt="My Past Work Repository"
+    />
+  </a>
   
   <br/><br/>
 
