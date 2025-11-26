@@ -240,7 +240,12 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true)](https://github.com/himanshuuj1997/himanshuuj1997)
+  <a href="https://github.com/himanshuuj1997/himanshuuj1997">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true&cache_seconds=3600" 
+      alt="Pinned Repo" 
+    />
+  </a>
 
 </div>
 
