@@ -5,9 +5,9 @@
 ### 🚀 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI/ML Engineer | 📊 Data Scientist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshuuj1997.github.io/github-portfolio/Index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuu-joshii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuuj1997/)
 [![Email](https://img.shields.io/badge/Email-himanshujoshi378%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshujoshi378@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Himanshuu-Joshii?style=for-the-badge&logo=github)](https://github.com/Himanshuu-Joshii)
+[![GitHub](https://img.shields.io/github/followers/himanshuuj1997?style=for-the-badge&logo=github)](https://github.com/himanshuuj1997)
 
 </div>
 
@@ -170,7 +170,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuuj1997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Himanshuu-Joshii)
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuuj1997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/himanshuuj1997)
 
 </div>
 
@@ -180,7 +180,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshuuj1997&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/Himanshuu-Joshii)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshuuj1997&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/himanshuuj1997)
 
 </div>
 
@@ -230,7 +230,7 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true)](https://github.com/Himanshuu-Joshii/Himanshuu-Joshii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshuuj1997&repo=himanshuuj1997&theme=tokyonight&hide_border=true)](https://github.com/himanshuuj1997/himanshuuj1997)
 
 </div>
 
