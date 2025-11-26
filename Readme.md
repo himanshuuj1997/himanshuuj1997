@@ -170,7 +170,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuu-Joshii&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Himanshuu-Joshii)
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuuj1997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Himanshuu-Joshii)
 
 </div>
 
