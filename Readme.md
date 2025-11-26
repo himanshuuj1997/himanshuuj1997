@@ -170,7 +170,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuuj1997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Himanshuu-Joshii)
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshuuj1997&theme=tokyo-night&hide_border=true&area=true)](https://github.com/himanshuuj1997)
 
 </div>
 
@@ -180,7 +180,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=himanshuuj1997&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/Himanshuu-Joshii)
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshuuj1997&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/himanshuuj1997)
 
 </div>
 
@@ -243,8 +243,8 @@ Other            █░░░░░░░░░░░░░░░░░░░░
 I'm always excited to collaborate on innovative projects, discuss DevOps best practices, or explore AI/ML opportunities. Let's connect and build something amazing together!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00ADD8?style=for-the-badge)](https://himanshuuj1997.github.io/github-portfolio/Index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshuu-joshii/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/Himanshuu-Joshii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshuuj1997/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/himanshuuj1997)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:himanshujoshi378@gmail.com)
 
 </div>
