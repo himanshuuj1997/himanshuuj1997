@@ -5,7 +5,7 @@
 ### 🚀 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI/ML Engineer | 📊 Data Scientist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshuuj1997.github.io/github-portfolio/Index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuuj1997/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshuuj/)
 [![Email](https://img.shields.io/badge/Email-himanshujoshi378%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshujoshi378@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/himanshuuj1997?style=for-the-badge&logo=github)](https://github.com/himanshuuj1997)
 
